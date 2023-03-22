@@ -13,7 +13,7 @@ class Student:
         print("Age of the Student:",self.age)
         print("Gender of the Student:",self.sex)
 
-s1=Student("Nashim Biswakarma","I",24,24)
+s1=Student("Nashim Biswakarma","I",24,24) #creating Objects
 s2=Student("Shreya Biswakarma","I",23,21,'Female')
 print(s1.section)
 s1.display()
