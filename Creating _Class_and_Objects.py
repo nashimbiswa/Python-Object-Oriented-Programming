@@ -1,7 +1,7 @@
 class Student:
     section='MCA'# class attribute
     def __init__(self,na_me,cl_ass,rool_no,a_ge,s_ex='Not Known'):
-        self.name=na_me#instance variables
+        self.name=na_me#instance attributes
         self.clAss=cl_ass
         self.rool=rool_no
         self.age=a_ge
